@@ -5,6 +5,73 @@
 </script>
 
 <Slide>
+  <div class="flex flex-row items-center justify-center w-full h-full gap-10">
+    <img class="w-48" src="/angular-logo.svg" alt="Logo do Angular" />
+    <h2 class="font-poppins">VS</h2>
+    <img class="w-48 invert" src="/next-logo.svg" alt="Logo do Next" />
+  </div>
+</Slide>
+
+<Slide>
+  <Slide>
+    <p>1 - Angular não funciona no Firefox</p>
+  </Slide>
+  <Slide>
+    <Code>
+      @
+    </Code>
+  </Slide>
+  <Slide>
+    <p>1 - Angular não funciona no Firefox</p>
+  </Slide>
+</Slide>
+
+<Slide>
+  <p>2 - Diminuição da complexidade</p>
+</Slide>
+
+<Slide>
+  <p>3 - Componentes por classe são muito mais complexos que funções</p>
+</Slide>
+
+<Slide>
+  <p>4 - Time com experiência em React/Next</p>
+</Slide>
+
+<Slide>
+  <p>5 - Bibliotecas mortas</p>
+</Slide>
+
+<Slide>
+  <p>6 - Baixa disponibilidade de bibliotecas</p>
+</Slide>
+
+<Slide>
+  <p>7 - Comunidade mais ampla</p>
+</Slide>
+
+<Slide>
+  <p>8 - Dificuldade em reaproveitar componentes</p>
+</Slide>
+
+<Slide>
+  <p>9 - O roteamento do Next é mais fácil</p>
+</Slide>
+
+<Slide>
+  <p>9 - React Query</p>
+</Slide>
+
+<Slide>
+  <Slide>
+    <p>10 - Encapsulamento de componentes</p>
+  </Slide>
+  <Slide>
+    <p>10 - Encapsulamento de componentes</p>
+  </Slide>
+</Slide>
+
+<Slide>
   <img src="/cypress-logo.svg" alt="Logo do Cypress" />
 </Slide>
 
