@@ -14,10 +14,17 @@
 
 <Slide>
   <Slide>
-    <p>1 - Angular não funciona no Firefox</p>
+    <p>1 - Time com experiência em React/Next</p>
   </Slide>
   <Slide>
-    <h1>Signals</h1>
+    <div
+      class="flex flex-row flex-wrap items-center justify-center w-full h-full gap-8"
+    >
+      <img src="/tamicktom.png" alt="" class="w-40 h-40 rounded-full hljs" />
+      <img src="/furlan.png" alt="" class="w-40 h-40 rounded-full hljs" />
+      <img src="/milton.png" alt="" class="w-40 h-40 rounded-full hljs" />
+      <img src="/garcia.jpeg" alt="" class="w-40 h-40 rounded-full hljs" />
+    </div>
   </Slide>
 </Slide>
 
@@ -34,7 +41,19 @@
 
 <Slide>
   <Slide>
-    <p>3 - Componentes por classe são muito mais complexos que funções</p>
+    <div class="flex flex-col">
+      <p>3 - Angular não funciona no Firefox</p>
+      <p class="text-xs">mais ou menos</p>
+    </div>
+  </Slide>
+  <Slide>
+    <h1>Signals</h1>
+  </Slide>
+</Slide>
+
+<Slide>
+  <Slide>
+    <p>4 - Componentes por classe são muito mais complexos que funções</p>
   </Slide>
   <Slide>
     <Code lines>
@@ -83,37 +102,7 @@
 
 <Slide>
   <Slide>
-    <p>4 - Time com experiência em React/Next</p>
-  </Slide>
-  <Slide>
-    <div
-      class="flex flex-row flex-wrap items-center justify-center w-full h-full gap-8"
-    >
-      <img src="/tamicktom.png" alt="" class="w-40 h-40 rounded-full hljs" />
-      <img src="/furlan.png" alt="" class="w-40 h-40 rounded-full hljs" />
-      <img src="/milton.png" alt="" class="w-40 h-40 rounded-full hljs" />
-      <img src="/garcia.jpeg" alt="" class="w-40 h-40 rounded-full hljs" />
-    </div>
-  </Slide>
-</Slide>
-
-<Slide>
-  <Slide>
-    <p>5 - Bibliotecas mortas</p>
-  </Slide>
-  <Slide>
-    <img src="lib1.png" alt="" class="w-full rounded-lg" />
-    <img src="lib2.png" alt="" class="w-full rounded-lg" />
-  </Slide>
-  <Slide>
-    <img src="lib3.png" alt="" class="w-full rounded-lg" />
-    <img src="lib4.png" alt="" class="w-full rounded-lg" />
-  </Slide>
-</Slide>
-
-<Slide>
-  <Slide>
-    <p>6 - Comunidade mais ampla</p>
+    <p>5 - Comunidade mais ampla</p>
   </Slide>
   <Slide>
     <div class="flex items-center justify-center w-full">
@@ -128,12 +117,41 @@
 </Slide>
 
 <Slide>
+  <Slide>
+    <p>6 - Bibliotecas mortas</p>
+  </Slide>
+  <Slide>
+    <img src="lib1.png" alt="" class="w-full rounded-lg" />
+    <img src="lib2.png" alt="" class="w-full rounded-lg" />
+  </Slide>
+  <Slide>
+    <img src="lib3.png" alt="" class="w-full rounded-lg" />
+    <img src="lib4.png" alt="" class="w-full rounded-lg" />
+  </Slide>
+</Slide>
+
+<Slide>
   <p>7 - Dificuldade em reaproveitar componentes</p>
 </Slide>
 
 <Slide>
   <Slide>
-    <p>8 - O roteamento do Next é mais intuitivo</p>
+    <p>8 - Encapsulamento de componentes</p>
+  </Slide>
+  <Slide animate>
+    <img src="/encapsulamento.png" alt="" class="w-full rounded-lg" />
+  </Slide>
+  <Slide animate>
+    <img src="/responsivo.gif" alt="" class="w-full rounded-lg" />
+  </Slide>
+  <Slide animate>
+    <img src="/encapsulamento2.png" alt="" class="w-full rounded-lg" />
+  </Slide>
+</Slide>
+
+<Slide>
+  <Slide>
+    <p>9 - O roteamento do Next é mais intuitivo</p>
   </Slide>
   <Slide>
     <p class="font-bold">www.site.com/first-component</p>
@@ -191,24 +209,9 @@
 
 <Slide>
   <Slide>
-    <p>9 - React Query</p>
+    <p>10 - React Query</p>
   </Slide>
   <Slide>
     <img src="/modelo.png" alt="" class="w-full rounded-lg" />
-  </Slide>
-</Slide>
-
-<Slide>
-  <Slide>
-    <p>10 - Encapsulamento de componentes</p>
-  </Slide>
-  <Slide animate>
-    <img src="/encapsulamento.png" alt="" class="w-full rounded-lg">
-  </Slide>
-  <Slide animate>
-    <img src="/responsivo.gif" alt="" class="w-full rounded-lg">
-  </Slide>
-  <Slide animate>
-    <img src="/encapsulamento2.png" alt="" class="w-full rounded-lg">
   </Slide>
 </Slide>
