@@ -203,9 +203,12 @@
     <p>10 - Encapsulamento de componentes</p>
   </Slide>
   <Slide animate>
-    <img src="encapsulamento.png" alt="" class="w-full rounded-lg">
+    <img src="/encapsulamento.png" alt="" class="w-full rounded-lg">
   </Slide>
   <Slide animate>
-    <img src="encapsulamento2.png" alt="" class="w-full rounded-lg">
+    <img src="/responsivo.gif" alt="" class="w-full rounded-lg">
+  </Slide>
+  <Slide animate>
+    <img src="/encapsulamento2.png" alt="" class="w-full rounded-lg">
   </Slide>
 </Slide>
