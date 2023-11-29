@@ -2,7 +2,6 @@
   import Slide from "./slide.svelte";
   import Code from "./code.svelte";
   import Markdown from "./markdown.svelte";
-
 </script>
 
 <Slide>
@@ -133,7 +132,61 @@
 </Slide>
 
 <Slide>
-  <p>8 - O roteamento do Next é mais fácil</p>
+  <Slide>
+    <p>8 - O roteamento do Next é mais intuitivo</p>
+  </Slide>
+  <Slide>
+    <p class="font-bold">www.site.com/first-component</p>
+    <Code>
+      {`
+      const routes: Routes = [
+        { path: 'first-component', component: FirstComponent },
+        { path: 'second-component', component: SecondComponent },
+      ];
+      `}
+    </Code>
+  </Slide>
+  <Slide>
+    <p class="font-bold">www.site.com/products</p>
+    <Code>
+      {`
+      const routes: Routes = [
+        { path: 'products', component: ProductListComponent },
+        { path: 'products/:id', component: ProductDetailComponent },
+      ];
+      `}
+    </Code>
+  </Slide>
+  <Slide>
+    <p class="font-bold">www.site.com/admin/product</p>
+    <Code>
+      {`
+      const routes: Routes = [
+        {
+          path: 'admin',
+          component: AdminDashboardComponent,
+          children: [
+            { path: 'product', component: AdminProductComponent },
+            { path: 'category', component: AdminCategoryComponent },
+          ],
+        },
+      ];
+      `}
+    </Code>
+  </Slide>
+  <Slide>
+    <img src="/next-page.avif" alt="" class="w-full rounded-lg" />
+  </Slide>
+  <Slide>
+    <img src="/next-colocation.avif" alt="" class="w-full rounded-lg" />
+  </Slide>
+  <Slide>
+    <img
+      src="/next-router-inside-router.avif"
+      alt=""
+      class="w-full rounded-lg"
+    />
+  </Slide>
 </Slide>
 
 <Slide>
