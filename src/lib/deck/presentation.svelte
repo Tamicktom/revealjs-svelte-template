@@ -190,7 +190,16 @@
 </Slide>
 
 <Slide>
-  <p>9 - React Query</p>
+  <Slide>
+    <p>9 - React Query</p>
+  </Slide>
+  <Slide>
+    <div
+      class="flex items-center justify-center w-full h-full"
+    >
+    <img src="/modelo.png" alt="" class="w-full rounded-lg" />
+    </div>
+  </Slide>
 </Slide>
 
 <Slide>
