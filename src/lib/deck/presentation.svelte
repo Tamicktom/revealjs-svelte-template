@@ -194,11 +194,7 @@
     <p>9 - React Query</p>
   </Slide>
   <Slide>
-    <div
-      class="flex items-center justify-center w-full h-full"
-    >
     <img src="/modelo.png" alt="" class="w-full rounded-lg" />
-    </div>
   </Slide>
 </Slide>
 
@@ -207,19 +203,9 @@
     <p>10 - Encapsulamento de componentes</p>
   </Slide>
   <Slide animate>
-    <div class="flex gap-8 place-content-center">
-      <div
-        data-id="box-1"
-        class="flex flex-col items-center justify-center h-40 bg-transparent border-2 border-transparent rounded-lg w-96"
-      />
-    </div>
+    <img src="encapsulamento.png" alt="" class="w-full rounded-lg">
   </Slide>
   <Slide animate>
-    <div class="flex gap-8 place-content-center">
-      <div
-        data-id="box-1"
-        class="flex flex-col items-center justify-center h-40 bg-transparent border-2 border-transparent rounded-lg w-96"
-      />
-    </div>
+    <img src="encapsulamento2.png" alt="" class="w-full rounded-lg">
   </Slide>
 </Slide>
